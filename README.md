@@ -3,6 +3,6 @@
   <head>
   </head>
   <body>
-    <p>Hello world</p>
+    <p>This is my first Github page</p>
   </body>
 </html>
