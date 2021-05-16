@@ -1,1 +1,8 @@
-<h1>This is my first github page</h1>
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <p>Hello world</p>
+  </body>
+</html>
